@@ -7,6 +7,7 @@
 
 using namespace std;
 
+// START of code
 int main() {
 
     vector<std::string> lines;
